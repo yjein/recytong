@@ -1,7 +1,7 @@
 # recytong
 <br><br>
 <h1>리사이통 - 자멍(이유나, 윤지인)</h1>
-<h4>근명고 IoT 피지컬 컴퓨팅 수업</h4>
+<h4>IoT 피지컬 컴퓨팅 과제</h4>
 
 <img src="ppt_img/슬라이드1.JPG" alt="슬라이드 이미지1">
 <img src="ppt_img/슬라이드2.JPG" alt="슬라이드 이미지2">
